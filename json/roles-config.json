@@ -1,0 +1,54 @@
+{
+    "serverId" : "582032120319442944",
+    "messageData" : 
+    [
+        {
+            "mapname" : "party",
+            "strict" : true,
+            "channelId" : "717925681656234065",
+            "messageId" : "717944099511992340"
+        }
+        ,
+        {
+            "mapname" : "religion",
+            "strict" : false,
+            "channelId" : "717925681656234065",
+            "messageId" : "717944613972869161"
+        }
+        ,
+        {
+            "mapname" : "philosophy",
+            "strict" : false,
+            "channelId" : "717925681656234065",
+            "messageId" : "717945956636819477"
+        }
+        ,
+        {
+            "mapname" : "economics",
+            "strict" : false,
+            "channelId" : "717925681656234065",
+            "messageId" : "717946537799581777"
+        }
+        ,
+        {
+            "mapname" : "other",
+            "strict" : false,
+            "channelId" : "717925681656234065",
+            "messageId" : "717947390031691796"
+        }
+        ,
+        {
+            "mapname" : "pings",
+            "strict" : false,
+            "channelId" : "717925681656234065",
+            "messageId" : "717951175172816918"
+        }
+        ,
+        {
+            "mapname" : "subs",
+            "strict" : false,
+            "channelId" : "717925681656234065",
+            "messageId" : "717954164839415888"
+        }
+    ]
+}
